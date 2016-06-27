@@ -1,0 +1,1 @@
+Area switching does not work right now. When switching to lawn, its area items do not appear.
